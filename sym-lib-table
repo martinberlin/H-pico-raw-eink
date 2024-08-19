@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pico")(type "KiCad")(uri "${KIPRJMOD}/components/rp-pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "epdiy")(type "KiCad")(uri "${KIPRJMOD}/components/symbols/TPS651851RSLR.kicad_sym")(options "")(descr ""))
+  (lib (name "epd1")(type "KiCad")(uri "${KIPRJMOD}/components/symbols/epd_breakout.kicad_sym")(options "")(descr ""))
+)

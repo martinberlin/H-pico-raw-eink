@@ -1,0 +1,14 @@
+# Exclude from Repository all KiCad backup & lock files
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.sch-bak
+fp-info-cache
+.cache
+*-backups/
+build/
+*-rescue.*
+*saved_files#
+*.lck
+_autosave*
+
